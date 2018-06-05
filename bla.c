@@ -1,2 +1,4 @@
-asd
-sad
+int main ()
+{
+	printf("Hello %d\n", "World!");
+}
